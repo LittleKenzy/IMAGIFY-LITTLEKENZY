@@ -1,5 +1,3 @@
-Oke, gua bikinin full `README.md` buat repo **Imagify** lo. Strukturnya udah rapi, ada deskripsi, fitur, cara install, cara jalanin, sama lisensi.
-
 ````markdown
 # 🚀 Imagify
 
@@ -86,8 +84,3 @@ Proyek ini dirilis di bawah lisensi [MIT](LICENSE).
 ---
 
 > Dibuat dengan ❤️ untuk semua yang ingin menuangkan imajinasi menjadi visual.
-
-```
-
-Mau gua bikinin juga **versi bahasa Inggris** biar README lo lebih profesional buat publik GitHub?
-```
