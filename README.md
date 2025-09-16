@@ -67,7 +67,15 @@ imagify/
 
 ## 🖼️ Screenshot
 
-*(tambahkan screenshot aplikasi di sini)*
+![Deskripsi gambar](/imagify-readme.png)
+
+---
+
+---
+
+## Notes
+
+
 
 ---
 
