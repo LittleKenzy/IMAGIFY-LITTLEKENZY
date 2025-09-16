@@ -67,7 +67,7 @@ imagify/
 
 ## 🖼️ Screenshot
 
-![Deskripsi gambar](/imagify-readme.png)
+![Imagify Preview](./client/public/imagify-readme.png)
 
 ---
 
